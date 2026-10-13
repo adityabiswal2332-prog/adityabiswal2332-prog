@@ -1,64 +1,26 @@
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stuff.adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya biswal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabiswal2332@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=adityabiswal2332-prog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adityabiswal2332-prog&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityabiswal2332-prog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <div align="center">
-
-<!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal — Frontend Developer" width="100%"/>
-
-<br/><br/>
-
-<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
-<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
-
-<br/><br/>
-
-<!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
-
-<br/><br/>
-
-<!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
-
-<br/><br/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adityabiswal2332-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎌 Featured builds
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-| Project | What it is | Stack | Stars |
-|:---|:---|:---|:---:|
-| [**Naruto — Sage Mode**](https://github.com/Meghamittal0920/Naruto-SageMode) | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
-| [**Zoro — King of Hell**](https://github.com/Meghamittal0920/Zoro-King-of-hell) | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
-| [**Demon Slayer — Yoriichi & Kokushibo**](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**JJK — Sukuna**](https://github.com/Meghamittal0920/JJK-Sakuna) | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**One Piece 3D Website**](https://github.com/Meghamittal0920/One-Piece-3D-Website) | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
-| [**Impact**](https://github.com/Meghamittal0920/Imapact) | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adityabiswal2332-prog&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=adityabiswal2332-prog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 🌃 My contribution city
-
-*Every commit builds another tower — rebuilt automatically every day.*
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
-
-<br/><br/>
-
-<!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
-
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
-<a href="https://www.threads.net/@meghamittal92000"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/>
-
-**Always learning, always building.** 💜
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
